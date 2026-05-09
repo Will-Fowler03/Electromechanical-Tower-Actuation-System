@@ -55,3 +55,8 @@ _Tower Motor Lovejoy Coupling_
 
 
 Callout 1 directs to the couple hub at the motor side with a keyed bore matching the output shaft. Callout 2 shows the Lovejoy spider, which is responsible for transmitting torque while damping shock and vibration on either side of the assembly. Callout 3 is the couple hub to the lead screw, transmitting torque through a D-shaft. Both hubs are clamped with a set screw to achieve more surface area contact between the hub and its contact. 
+
+
+## Power
+
+In addition to the mechanical actuation system, my team and I have also been tasked with designing the power supply for both our added equipment and the system already in place. Because this tower is located in a remote area, we have chosen to use solar panels as the primary charging source. The tower actuation system and camera support system will use separate battery systems to ensure that the actuation system always has dedicated operable power.
