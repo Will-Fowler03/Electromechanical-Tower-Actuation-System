@@ -39,3 +39,12 @@ In the figure above, callouts 1 and 2 refer to the interior and exterior caps, r
 Callout 3 identifies the mounting flange. The end of this flange serves as the hinge point for callout 4, the travel nut. The travel nut will be secured using a similar approach to the thrust collar. The aluminum plate will be threaded to prevent axial motion, and the end of the bolt will be shouldered so that the side hole of the nut can rotate on a smooth pin-like surface. One shouldered bolt will be installed on each side of the assembly, with one bolt per flange.
 
 Cap 1 will be welded to the mounting flanges. Cap 2 will be installed on-site at the tower and used to clamp the assembly against the tower pole. This reduces slop in the assembly because the through bolts can be torqued to squeeze the two caps tightly around the tower pole.
+
+-## Motor Coupling
+
+To transmit torque from the motor output shaft to the lead screw, the output shaft and screw have to be coupled together. This can be accomplished with a coupling device known as a Lovejoy couple. The Lovejoy features two attachment hubs and a middle section called a spider. These three pieces concentrically align for an integrated collapsing fit. Shown in the figure below are the coupling assembly implementation and exploded view, respectively. This method of coupling has been selected because of its modular nature. Hubs can be interchanged, replaced, or customized to fit specific shaft geometries. For the purpose of this project, the hubs will be a 3/4in keyed bore and a 1/2in D shaft. This type of couple handles high magnitudes of torque while also having a long service life thanks to the elastomer spider absorbing significant jerk and vibrations. The spider can easily be replaced, should the event arise, by detaching the motor from the mount, separating the hubs from the old spider, replacing spider, and reassembling.  
+
+<img width="728" height="489" alt="image" src="https://github.com/user-attachments/assets/1207c340-8bba-4df6-bb1e-c45b789c0eed" />
+_Tower Motor Lovejoy Coupling_
+
+Callout 1 directs to the couple hub at the motor side with a keyed bore matching the output shaft. Callout 2 shows the Lovejoy spider, which is responsible for transmitting torque while damping shock and vibration on either side of the assembly. Callout 3 is the couple hub to the lead screw, transmitting torque through a D-shaft. Both hubs are clamped with a set screw to achieve more surface area contact between the hub and its contact. 
