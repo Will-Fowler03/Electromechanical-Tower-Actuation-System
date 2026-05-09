@@ -60,3 +60,6 @@ Callout 1 directs to the couple hub at the motor side with a keyed bore matching
 ## Power
 
 In addition to the mechanical actuation system, my team and I have also been tasked with designing the power supply for both our added equipment and the system already in place. Because this tower is located in a remote area, we have chosen to use solar panels as the primary charging source. The tower actuation system and camera support system will use separate battery systems to ensure that the actuation system always has dedicated operable power.
+
+
+We have designed this system over the course of Spring 2026 semester, and we will be building and installing over the coming summer months!
