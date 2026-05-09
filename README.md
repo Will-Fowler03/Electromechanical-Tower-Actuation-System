@@ -19,5 +19,9 @@ _Tower CAD_
 
 This project can effectively be broken up into three subassemblies
 # The thrust collar
+
+
+
 <img width="663" height="494" alt="image" src="https://github.com/user-attachments/assets/1e4e732a-9d6f-454f-9fd3-f22b0ba957c1" />
 _Thrust Collar_
+Callout 1 refers to the 5 TPI Acme stainless steel lead screw, callout 2 is its respective high strength hex nut, callout 3 shows a high strength hardened flat washer, callout 4 is a thrust bearing, and callout 5 is the thrust collar assembly pivot. The purpose of this assembly is to take axial load off of the motor-screw coupling, which will be detailed later. It is undesirable for the nuts to translate linearly on the screw, so they must be secured via permanent adhesive. The purpose of the washer is to evenly distribute pressure from the nut to the bearing and to prevent the galling thereof. The bearing is in place to allow for low friction rotation of the screw relative to the hex nut. 
