@@ -17,3 +17,7 @@ My team's job is to design and fabricate a system to allow the user to lower and
 <img width="692" height="271" alt="image" src="https://github.com/user-attachments/assets/15567e8e-050c-4668-af27-8a1a71b6f5f5" />
 _Tower CAD_
 
+This project can effectively be broken up into three subassemblies
+# The thrust collar
+<img width="663" height="494" alt="image" src="https://github.com/user-attachments/assets/1e4e732a-9d6f-454f-9fd3-f22b0ba957c1" />
+_Thrust Collar_
